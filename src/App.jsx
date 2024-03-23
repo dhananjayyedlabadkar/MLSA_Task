@@ -24,12 +24,12 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  name: "Dhananjay Yedlabadkar",
+  title: "Fontend Developer & Designer",
+  email: "dhananjay13yedlabadkar@gmail.com",
+  gitHub: "dhananjayyedlabadkar",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "dhananjay-yedlabadkar-20b952242/",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",

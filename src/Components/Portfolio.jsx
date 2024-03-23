@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desktop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with laptop and books";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Dynamic 3D-Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Discover our website's charm! I used HTML, CSS, JavaScript, and GSAP with smooth locomotive scrolling for a delightful and engaging user experience.",
+    url: "https://dhananjayyedlabadkar.github.io/3D-Website/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Introducing my weather app—where forecasts come to life! Experience dynamic animations that bring weather updates to a whole new level.",
+    url: "https://dhananjayyedlabadkar.github.io/WeatherApp/",
   },
   {
-    title: "My Resume Site",
+    title: "Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Frontend Developer, with knowledge in web development and design, I offer the best projects resulting in quality work",
+    url: "https://dhananjayyedlabadkar.github.io/Portfolio-website/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Todo App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Meet my sleek Todo app, designed for simplicity and effortless interaction. Experience a seamless UI for hassle-free task management",
+    url: "https://dhananjayyedlabadkar.github.io/Portfolio-website/",
   },
 ];
 
